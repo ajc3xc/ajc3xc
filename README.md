@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @ajc3xc
+- 👋 Hi, I’m Adam Camerer
+- 🏫 I am a student at Missouri S&T
 - 👀 This is my partially complete repository for my Computer Science / IST Classes
 - 🌱 This includes photos, zip files, and links of projects for my classes
 - 👨‍💻 School GitLab Profile: https://git-classes.mst.edu/ajc3xc
