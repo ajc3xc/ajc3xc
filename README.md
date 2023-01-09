@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adam Camerer
 - 🏫 I am a student at Missouri S&T
-- 👀 This is my partially complete repository for my Computer Science / IST Classes
+- 👀 This is my partially complete repository for my Classes
 - 🌱 This includes photos, zip files, and links of projects for my classes
 - 👨‍💻 School GitLab Profile: https://git-classes.mst.edu/ajc3xc
 - 🤝 Linkedin Profile: https://www.linkedin.com/in/adam-camerer-0ab453251/
