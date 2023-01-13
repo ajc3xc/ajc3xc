@@ -9,7 +9,7 @@
 - __Thanks for looking at my profile!__
 <br/>
 
-## Links
+## Other Profiles
 - 👨‍💻 [School GitLab Profile](https://git-classes.mst.edu/ajc3xc)
 - 🤝 [Linkedin Profile](https://www.linkedin.com/in/adam-camerer-0ab453251/)
 - 📊 [Datacamp Profile](https://www.datacamp.com/profile/dradamawsome)
