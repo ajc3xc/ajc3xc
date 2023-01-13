@@ -2,7 +2,7 @@
 
 
 - 👋 Hi, I’m Adam Camerer
-- 🏫 I am a student at Missouri S&T
+- 🏫 I am a CS student at Missouri S&T
 - 🥛 This is my partially complete repository for my classes and work
 - 📁 This includes photos, files, and links of projects and materials
 - Other files may be on Datacamp or Online GDB<br/>
