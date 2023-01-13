@@ -10,7 +10,7 @@
 - 📊 [Datacamp Profile](https://www.datacamp.com/profile/dradamawsome)
 - 🚶‍♂️ [SoloLearn Profile](https://www.sololearn.com/profile/12127403)
 - Other files may be on Datacamp or Online GDB<br/>
-Thanks for looking at my profile!
+- __Thanks for looking at my profile!__
 
 <!---
 ajc3xc/ajc3xc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
