@@ -1,7 +1,7 @@
 ![download](https://user-images.githubusercontent.com/91383782/211970799-63c3a5bb-5070-4d71-ba93-727d3deef544.jpg)
 
 
-- 👋 Hi, I’m Adam Camerer
+### 👋 Hi, I’m Adam Camerer
 - 🏫 I am a CS student at Missouri S&T
 - 🥛 This is my partially complete repository for my classes and work
 - 📁 This includes photos, files, and links of projects and materials
@@ -9,7 +9,7 @@
 - __Thanks for looking at my profile!__
 <br/>
 
-## Other Profiles
+### Other Profiles
 - 👨‍💻 [School GitLab Profile](https://git-classes.mst.edu/ajc3xc)
 - 🤝 [Linkedin Profile](https://www.linkedin.com/in/adam-camerer-0ab453251/)
 - 📊 [Datacamp Profile](https://www.datacamp.com/profile/dradamawsome)
