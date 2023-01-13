@@ -7,7 +7,7 @@
 - 📁 This includes photos, files, and links of projects and materials
 - Other files may be on Datacamp or Online GDB<br/>
 - __Thanks for looking at my profile!__
-
+<br/>
 ## Links
 - 👨‍💻 [School GitLab Profile](https://git-classes.mst.edu/ajc3xc)
 - 🤝 [Linkedin Profile](https://www.linkedin.com/in/adam-camerer-0ab453251/)
