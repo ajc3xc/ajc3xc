@@ -9,8 +9,8 @@
 - 🤝 [Linkedin Profile](https://www.linkedin.com/in/adam-camerer-0ab453251/)
 - 📊 [Datacamp Profile](https://www.datacamp.com/profile/dradamawsome)
 - 🚶‍♂️ [SoloLearn Profile](https://www.sololearn.com/profile/12127403)
-- Other files may be on Datacamp or Online GDB
-<br/>Thanks for looking at my profile!
+- Other files may be on Datacamp or Online GDB<br/>
+Thanks for looking at my profile!
 
 <!---
 ajc3xc/ajc3xc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
