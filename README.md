@@ -15,6 +15,7 @@
 - 📊 [Datacamp Profile](https://www.datacamp.com/profile/dradamawsome)
 - 🚶‍♂️ [SoloLearn Profile](https://www.sololearn.com/profile/12127403)
 - 🦾 [Repl.it Profile](https://replit.com/@dradamawesome)
+- 🎓 [Senior Design Project Capstone 2](https://github.com/orgs/MST-Capstone2-MarsFarm/repositories)
 
 <!---
 ajc3xc/ajc3xc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
